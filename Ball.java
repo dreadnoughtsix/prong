@@ -375,7 +375,7 @@ public class Ball implements Runnable
   {
     try
     {
-        AudioInputStream audio = AudioSystem.getAudioInputStream(getClass().getResource("resources/paddle-sound.wav"));
+        AudioInputStream audio = AudioSystem.getAudioInputStream(getClass().getResource("/resources/paddle-sound.wav"));
         if (x == 1)
         	audio = AudioSystem.getAudioInputStream(getClass().getResource("/resources/paddle-sound.wav"));
           else if (x == 2)
