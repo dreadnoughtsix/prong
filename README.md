@@ -8,5 +8,5 @@ collection (which was apparently an assignment requirement).
 </p>
 
 <p>How to use:</p>
-<li> To compile, use <code> $ javac *.java </code> </li>
-<li>To run, use <code> $ java Client </code></li>
+<li> To compile, use <code> javac *.java </code> </li>
+<li>To run, use <code> java Client </code></li>
